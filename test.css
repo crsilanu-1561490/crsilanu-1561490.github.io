@@ -1,0 +1,41 @@
+#Header h1 {
+	color: purple;
+	text-align: center;
+	font-size: 60px; font-family: "Passion One"
+	color: #FFBC00;
+	font-weight: bold;
+	background-color: pink
+}
+
+#Header {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+}
+
+#leftnav {
+	width: 400px;
+	float: left;
+	padding-bottom: 20px;
+}
+
+#Content { 
+	width: 700px;
+	padding: 50px;
+	background-color: purple;
+}
+
+#leftnav, #content, #footer, #header {
+	text-align: center;
+}
+
+ul {
+	list-style-type: none;
+ }
+
+ p{
+ 	color: black;
+ 	font-family: arial
+ }
